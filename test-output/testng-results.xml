@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19422" started-at="2012-06-14T13:14:47Z" finished-at="2012-06-14T13:15:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19422" started-at="2012-06-14T13:14:47Z" finished-at="2012-06-14T13:15:06Z">
+      <class name="com.mailru.test.LoginTest">
+        <test-method status="PASS" signature="testLoginLogout()[pri:0, instance:com.mailru.test.LoginTest@14935f3]" name="testLoginLogout" duration-ms="19109" started-at="2012-06-14T13:14:47Z" finished-at="2012-06-14T13:15:06Z">
+        </test-method> <!-- testLoginLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mailru.test.LoginTest@14935f3]" name="tearDown" is-config="true" duration-ms="281" started-at="2012-06-14T13:15:06Z" finished-at="2012-06-14T13:15:06Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mailru.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

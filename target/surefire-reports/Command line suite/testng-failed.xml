@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)" preserve-order="true">
+    <classes>
+      <class name="com.mailru.test.BasicTest">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mailru.test.BasicTest -->
+      <class name="com.mailru.test.LoginTest">
+        <methods>
+          <include name="testLoginLogout"/>
+        </methods>
+      </class> <!-- com.mailru.test.LoginTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
